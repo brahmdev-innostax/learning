@@ -1,0 +1,7 @@
+git stash
+git stash apply [some number]
+git stash push -m "[some message]"
+git stash list
+git stash drop [some number]
+git stash pop [some number]
+git stash clear

@@ -1,0 +1,10 @@
+div {
+  margin-top: 10px;
+  margin-left: 10px;
+}
+
+.chevron {
+  padding: 2px 5px;
+  border-radius: 100%;
+  background-color: lightgray;
+}
